@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 data-importer="text" align="left">Olá, visitantes</h1>
 
-<!--
-**mccaneppele-cmyk/mccaneppele-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 data-importer="text" align="left">🎯 Sobre Mim</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p data-importer="text" align="left">Meu nome é Matheus Carnellosi Caneppele, estou com 17 anos, atualmente estudando no 3° do Ensino Médio no SESI / SENAI e busco aprender coisas novas na área da tecnologia</p>
+
+###
+
+<h2 data-importer="text" align="left">Cursos Adicionais</h2>
+
+###
+
+<p data-importer="text" align="left">∙ Assistente Administrativo realizado SENAI 2025<br>∙ Técnico Assistente Administrativo cursando CIEE 2025 - 2026<br>∙ Aprender e Crescer cursando SUDOTEC 2026</p>
+
+###
